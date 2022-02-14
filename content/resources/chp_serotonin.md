@@ -8,7 +8,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: Serotonin
+type: OCWImage
 uid: 0d2e2d79-14d8-eb35-e060-abe70f9745c4
 ---
