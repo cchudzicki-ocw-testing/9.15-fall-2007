@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: nt_release.pdf
-type: OCWFile
 uid: c8bd9c1d-3ce3-5bc2-a6aa-cb4d0790ba5e
 ---

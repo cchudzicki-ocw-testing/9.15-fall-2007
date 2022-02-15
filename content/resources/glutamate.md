@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: glutamate.pdf
-type: OCWFile
 uid: 2210854c-b108-2f48-efa6-8e6764b39d90
 ---

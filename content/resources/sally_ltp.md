@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: sally_ltp.pdf
-type: OCWFile
 uid: 246b0020-1cf3-2154-3236-946443da64c6
 ---

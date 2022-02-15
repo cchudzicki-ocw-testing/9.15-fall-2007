@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: antidepressants.pdf
-type: OCWFile
 uid: 0ccbcb0d-20d6-d5f8-9c02-14ddfdd1cda4
 ---
